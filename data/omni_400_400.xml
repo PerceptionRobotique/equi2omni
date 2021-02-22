@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root>
+  <!--PR team of the MIS lab - UPJV - France-->
+    <camera>
+      <!--Name of the camera-->
+      <name>Omni</name>
+      <!--Type of the camera-->
+      <type>0</type>
+      <!--Pixel ratio-->
+      <au>180.0000000000</au>
+      <av>180.0000000000</av>
+      <!--Principal point-->
+      <u0>200.0000000000</u0>
+      <v0>200.0000000000</v0>
+      <!--Xi-->
+      <xi>1.0</xi>
+    </camera>
+</root>
